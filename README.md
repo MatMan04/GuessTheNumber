@@ -1,5 +1,5 @@
 # python_problems
-<!-- In this section, I’ll show you a simple “guess the 
+In this section, I’ll show you a simple “guess the 
 number” game. When you run this program, the output will look some
 thing like this:
  I am thinking of a number between 1 and 20.
@@ -14,4 +14,5 @@ thing like this:
  Your guess is too high.
  Take a guess.
  16
- Good job! You guessed my number in 4 guesses! -->
+ Good job! You guessed my number in 4 guesses!
+ 
