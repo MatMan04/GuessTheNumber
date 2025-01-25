@@ -1,4 +1,4 @@
-# python_problems
+# Guess Number Game
 In this section, I’ll show you a simple “guess the 
 number” game. When you run this program, the output will look some
 thing like this:
